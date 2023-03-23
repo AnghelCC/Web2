@@ -141,3 +141,12 @@ a:hover{
     font-size: 0.85rem;
     padding: 20px 0px;
 }
+
+.mountain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 25%;
+
+}
