@@ -1,6 +1,6 @@
 # Web2
 
-The task I posted on this webpage was to try and recreate a given website look.
+The task I posted on this webpage was to try and recreate a given website look using only HTML and CSS.
 
 The task is in the PDF file.
 
